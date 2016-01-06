@@ -9,3 +9,21 @@
   border: dashed blue 4px;
   font-size: 20px;
 }
+
+.sidebar {
+  float: right;
+  width: 20%;
+  margin: 10px;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  margin: 5px;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
