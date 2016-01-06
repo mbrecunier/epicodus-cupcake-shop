@@ -1,0 +1,11 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-weight: bold;
+  font-family: fantasy;
+  border: dashed blue 4px;
+  font-size: 20px;
+}
